@@ -7,4 +7,4 @@ filters such as discord bots.
 
 This program is in VERY EARLY ACCESS so there will be many issues but is small and reliable as far as I have tested.
 
-Biggest test: 479k words in 1 second.
+Biggest test: 1.1 Million words in 1 second.
